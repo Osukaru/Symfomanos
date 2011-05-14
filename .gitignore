@@ -1,0 +1,10 @@
+#Ignoramos el contenido de la cache y los log:
+app/cache/
+app/logs/
+
+#Si trabajamos con netbeans quitamos el directorio de proyecto
+nbproject/
+
+#Si trabajamos con emacs
+*~
+
